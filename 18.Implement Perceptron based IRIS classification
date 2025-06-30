@@ -24,3 +24,4 @@ predicted = model.predict(sample)
 print("\nPrediction for sample:", sample, "=>", target_names[predicted[0]])
 
 output:
+Prediction for sample: [[5.1, 3.5, 1.4, 0.2]] => setosa
